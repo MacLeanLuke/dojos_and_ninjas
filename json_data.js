@@ -1,0 +1,5 @@
+[{'id': 5, 'created_at': datetime.datetime(2021, 7, 14, 21, 20, 59), 'updated_at': datetime.datetime(2021, 7, 17, 19, 27, 9), 'name': 'San Jose', 'ninja.id': 3, 'ninja.created_at': datetime.datetime(2021, 7, 14, 21, 26, 33), 'ninja.updated_at': datetime.datetime(2021, 7, 14, 21, 26, 33), 'first_name': 'Mammy', 'last_name': 'MacDog', 'dojo_id': 5}, 
+
+{'id': 5, 'created_at': datetime.datetime(2021, 7, 14, 21, 20, 59), 'updated_at': datetime.datetime(2021, 7, 17, 19, 27, 9), 'name': 'San Jose', 'ninja.id': 6, 'ninja.created_at': datetime.datetime(2021, 7, 14, 21, 30), 'ninja.updated_at': datetime.datetime(2021, 7, 14, 21, 30), 'first_name': 'jim', 'last_name': 'Macjingle', 'dojo_id': 5}, 
+
+{'id': 5, 'created_at': datetime.datetime(2021, 7, 14, 21, 20, 59), 'updated_at': datetime.datetime(2021, 7, 17, 19, 27, 9), 'name': 'San Jose', 'ninja.id': 9, 'ninja.created_at': datetime.datetime(2021, 7, 14, 21, 30), 'ninja.updated_at': datetime.datetime(2021, 7, 14, 21, 30), 'first_name': 'jenny', 'last_name': 'funlover', 'dojo_id': 5}]
